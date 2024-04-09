@@ -33,7 +33,7 @@ Now you can jump to my section about my (favorite fruit)[#my-favorite-fruit] or 
 
 This section will now show an image
 
-![Image 1](fruit.jpg)
+[Image 1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dfruit&psig=AOvVaw270ZRJXl_jkrNozD-ix6eE&ust=1712723554994000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIikmMqmtIUDFQAAAAAdAAAAABAE)
 
 
 ### My favorite fruit
