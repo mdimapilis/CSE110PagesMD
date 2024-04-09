@@ -28,11 +28,15 @@ However, I am knowledgeable of some of the following programming languages:
 * Python
 * C++
 * C
-  
 
-[This section will now show some images]()
+Now you can jump to my section about my (favorite fruit)[#my-favorite-fruit] or scroll down to see a cool image! 
 
-![Image 1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dfruit&psig=AOvVaw0Gjrw_yJjFkU7nlm8ju1TX&ust=1712719101653000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDy1v6VtIUDFQAAAAAdAAAAABAE)
+This section will now show an image
+
+![Image 1](fruit.jpg)
+
+
+### My favorite fruit
 
 My favorite fruit is ranked by the following:
 1. Banana
@@ -40,7 +44,7 @@ My favorite fruit is ranked by the following:
 3. Apple
 
 After this lab I will do the following:
-- [] Shower
-- [] Sleep
-- [] Watch tiktok
+- [ ] Shower
+- [ ] Sleep
+- [ ] Watch tiktok
 
