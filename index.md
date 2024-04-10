@@ -29,11 +29,9 @@ However, I am knowledgeable of some of the following programming languages:
 * C++
 * C
 
-Now you can jump to my section about my [favorite fruit](#my-favorite-fruit) or scroll down to see a cool image! 
-
 This section will now show an image as a relative link
 
-[Image 1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dfruit&psig=AOvVaw270ZRJXl_jkrNozD-ix6eE&ust=1712723554994000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIikmMqmtIUDFQAAAAAdAAAAABAE)
+[Git clone Screenshot](screenshots/1.git%20clone%20screenshot.png)
 
 
 ### My favorite fruit
@@ -44,7 +42,7 @@ My favorite fruit is ranked by the following:
 3. Apple
 
 After this lab I will do the following:
-- [ ] Shower
-- [ ] Sleep
-- [ ] Watch tiktok
+ [ ] Shower
+ [ ] Sleep
+ [ ] Watch tiktok
 
