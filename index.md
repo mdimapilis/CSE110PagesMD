@@ -42,7 +42,7 @@ My favorite fruit is ranked by the following:
 3. Apple
 
 After this lab I will do the following:
- [ ] Shower
- [ ] Sleep
- [ ] Watch tiktok
+- [ ] Shower
+- [ ] Sleep
+- [ ] Watch tiktok
 
