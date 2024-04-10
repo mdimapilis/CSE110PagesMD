@@ -29,7 +29,7 @@ However, I am knowledgeable of some of the following programming languages:
 * C++
 * C
 
-Now you can jump to my section about my (favorite fruit)[#my-favorite-fruit] or scroll down to see a cool image! 
+Now you can jump to my section about my [favorite fruit](#my-favorite-fruit) or scroll down to see a cool image! 
 
 This section will now show an image as a relative link
 
